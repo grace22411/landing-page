@@ -58,6 +58,7 @@ body{
 .container header .logo h2{
     margin-top:0;
     color:#fff;
+    display: inline;
 }
 .container header .logo h2 span{
     color:#F8CD3E;
